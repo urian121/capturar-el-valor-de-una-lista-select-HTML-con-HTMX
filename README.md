@@ -52,7 +52,3 @@ Este es un proyecto que demuestra cómo capturar y procesar el valor seleccionad
 ## Personalización
 
 Puedes modificar la lista de frutas editando el array `$list_fruits` en `index.php` y `get_fruit.php`.
-
-## Licencia
-
-Este proyecto está bajo la Licencia MIT. 
