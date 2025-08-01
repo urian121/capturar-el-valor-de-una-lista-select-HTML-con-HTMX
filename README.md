@@ -2,6 +2,8 @@
 
 Este es un proyecto que demuestra cómo capturar y procesar el valor seleccionado de un elemento `<select>` usando HTMX, sin necesidad de escribir JavaScript. El ejemplo utiliza una lista de frutas, pero la implementación puede adaptarse a cualquier tipo de datos.
 
+![Captura de pantalla](https://raw.githubusercontent.com/urian121/imagenes-proyectos-github/refs/heads/master/capturar-el-valor-de-una-lista-select-HTML-con-HTMX.gif)
+
 ## Características
 
 - Captura del valor seleccionado en tiempo real
@@ -19,11 +21,6 @@ Este es un proyecto que demuestra cómo capturar y procesar el valor seleccionad
 └── README.md          # Este archivo
 ```
 
-## Tecnologías Utilizadas
-
-- PHP 7.4+
-- HTMX 1.9.5
-- Bootstrap 5.3.3
 
 ## Cómo Funciona
 
@@ -32,10 +29,6 @@ Este es un proyecto que demuestra cómo capturar y procesar el valor seleccionad
 3. El servidor procesa la selección y devuelve el resultado
 4. El resultado se muestra dinámicamente en la página sin recargar
 
-## Requisitos
-
-- Servidor web con PHP (Apache, Nginx, etc.)
-- PHP 7.4 o superior
 
 ## Instalación
 
@@ -43,12 +36,17 @@ Este es un proyecto que demuestra cómo capturar y procesar el valor seleccionad
 2. Asegúrate de que el servidor web tenga permisos de lectura
 3. Accede al proyecto a través de tu navegador
 
-## Uso
 
-1. Abre el proyecto en tu navegador
-2. Selecciona una fruta del menú desplegable
-3. El resultado se mostrará automáticamente en la sección derecha
+## 🙌 Cómo puedes apoyar 📢:
 
-## Personalización
+✨ **Comparte este proyecto** con otros desarrolladores para que puedan beneficiarse 📢.
 
-Puedes modificar la lista de frutas editando el array `$list_fruits` en `index.php` y `get_fruit.php`.
+☕ **Invítame un café o una cerveza 🍺**:
+   - [Paypal](https://www.paypal.me/iamdeveloper86) (`iamdeveloper86@gmail.com`).
+
+### ⚡ ¡No olvides SUSCRIBIRTE a la [Comunidad WebDeveloper](https://www.youtube.com/WebDeveloperUrianViera?sub_confirmation=1)!
+
+
+#### ⭐ **Déjanos una estrella en GitHub**:
+   - Dicen que trae buena suerte 🍀.
+**Gracias por tu apoyo 🤓.**
